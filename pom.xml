@@ -4,6 +4,7 @@
     <artifactId>greeting-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>greeting-parent</name>
+    <packaging>pom</packaging> <!-- Change the packaging to 'pom' -->
     <modules>
         <module>greeting-common</module>
         <module>greeting-service</module>
